@@ -2,8 +2,7 @@
 
 <div>
   <a href="https://github.com/gustavowlima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavowlima&theme=algolia_icons=true/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowlima&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia"/>
 </div>
   
   
@@ -13,6 +12,9 @@
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gustavo-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Gustavo-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img  align="center" alt="Gustavo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   
   </br>
@@ -20,4 +22,4 @@
   ## Sobre
   
 >🎓 Análise e Desenvolvimento de Sistemas </br>
->💻 Front-End
+>💻 Front-End Developer
