@@ -8,7 +8,7 @@
 
 ### Languages, Frameworks, Tools...:
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,styledcomponents,sass,tailwind,materialui,jest,nodejs,html,css,prisma,figma,&perline=6)]()
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vercel,styledcomponents,sass,tailwind,materialui,jest,nodejs,nestjs,docker,html,css,prisma,postgres,figma,&perline=6)]()
 
 ### Socials
 
